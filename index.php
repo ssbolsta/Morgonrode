@@ -29,8 +29,7 @@
 	</head>
 
 	<body>
-        <header>
-            <div class="toggleMobile">
+          <div class="toggleMobile">
                 <span class="menu1"></span>
                 <span class="menu2"></span>
                 <span class="menu3"></span>
@@ -48,7 +47,7 @@
             <p>Lysar opp kvardagen</p>           
             
             <nav>
-            	<h2 class="hidden">Navigation</h2>
+                <h2 class="hidden">Navigation</h2>
                 <ul>
                     <li><a href="index.php" style="color:#e56038">Hjem</a></li>
                     <li><a href="gallery.php">Galleri</a></li>
@@ -57,7 +56,6 @@
                     <li><a href="contact.php">Kontakt oss</a></li>
                 </ul>
             </nav>
-        </header>
            <div id="content"></div>
 
            <section id="text_columns">
