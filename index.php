@@ -21,6 +21,8 @@
         <script src="js/vendor/prefixfree.min.js"></script>
         <script src="js/vendor/jquery.slides.min.js"></script>
         <script src="js/script.js"></script>
+
+
         
 
 	</head>
@@ -34,11 +36,11 @@
             </div>
             <div id="mobileMenu">
                 <ul>
-                    <li><a href="index.html" >Hjem</a></li>
-                    <li><a href="gallery.html">Galleri</a></li>
-                    <li><a href="songs.html">Sanger</a></li>
-                    <li><a href="aboutUs.html">Om oss</a></li>
-                    <li><a href="contact.html">Kontakt oss</a></li>
+                    <li><a href="index.php">Hjem</a></li>
+                    <li><a href="gallery.php">Galleri</a></li>
+                    <li><a href="songs.php">Sanger</a></li>
+                    <li><a href="aboutUs.php">Om oss</a></li>
+                    <li><a href="contact.php">Kontakt oss</a></li>
                 </ul>
             </div>           
             <h1> Morgonrode</h1>
@@ -47,14 +49,15 @@
             <nav>
             	<h2 class="hidden">Navigation</h2>
                 <ul>
-                    <li><a href="index.html" style="color:#e56038">Hjem</a></li>
-                    <li><a href="gallery.html">Galleri</a></li>
-                    <li><a href="songs.html">Sanger</a></li>
-                    <li><a href="aboutUs.html">Om oss</a></li>
-                    <li><a href="contact.html">Kontakt oss</a></li>
+                    <li><a href="index.php" style="color:#e56038">Hjem</a></li>
+                    <li><a href="gallery.php">Galleri</a></li>
+                    <li><a href="songs.php">Sanger</a></li>
+                    <li><a href="aboutUs.php">Om oss</a></li>
+                    <li><a href="contact.php">Kontakt oss</a></li>
                 </ul>
             </nav>
         </header>
+
 
            <section id="text_columns">
             <h2 class="hidden">tekstEksempel3</h2>
@@ -100,7 +103,7 @@
                     </a>
                     <figcaption>
                         <strong>
-                            <a href="aboutUs.html" > Selma French Bolstad </a>
+                            <a href="aboutUs.php" > Selma French Bolstad </a>
                         </strong>
                         Kort tekst
                     </figcaption>

@@ -35,11 +35,11 @@
             </div>
             <div id="mobileMenu">
                 <ul>
-                    <li><a href="index.html">Hjem</a></li>
-                    <li><a href="gallery.html">Galleri</a></li>
-                    <li><a href="songs.html">Sanger</a></li>
-                    <li><a href="aboutUs.html">Om oss</a></li>
-                    <li><a href="contact.html">Kontakt oss</a></li>
+                    <li><a href="index.php">Hjem</a></li>
+                    <li><a href="gallery.php">Galleri</a></li>
+                    <li><a href="songs.php">Sanger</a></li>
+                    <li><a href="aboutUs.php">Om oss</a></li>
+                    <li><a href="contact.php">Kontakt oss</a></li>
                 </ul>
             </div>           
             <h1>Morgonrode</h1>
@@ -48,11 +48,11 @@
             <nav>
             	<h2 class="hidden">Navigation</h2>
                 <ul>
-                    <li><a href="index.html">Hjem</a></li>
-                    <li><a href="gallery.html">Galleri</a></li>
-                    <li><a href="songs.html" style="color:#e56038">Sanger</a></li>
-                    <li><a href="aboutUs.html">Om oss</a></li>
-                    <li><a href="contact.html">Kontakt oss</a></li>
+                    <li><a href="index.php">Hjem</a></li>
+                    <li><a href="gallery.php">Galleri</a></li>
+                    <li><a href="songs.php" style="color:#e56038">Sanger</a></li>
+                    <li><a href="aboutUs.php">Om oss</a></li>
+                    <li><a href="contact.php">Kontakt oss</a></li>
                 </ul>
             </nav>
         </header>
