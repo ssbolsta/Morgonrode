@@ -21,6 +21,7 @@
         <script src="js/vendor/prefixfree.min.js"></script>
         <script src="js/vendor/jquery.slides.min.js"></script>
         <script src="js/script.js"></script>
+        <script src="js/general.js"></script>
 
 
         
@@ -57,7 +58,7 @@
                 </ul>
             </nav>
         </header>
-
+           <div id="content"></div>
 
            <section id="text_columns">
             <h2 class="hidden">tekstEksempel3</h2>
